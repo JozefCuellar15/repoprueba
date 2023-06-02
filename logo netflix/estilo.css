@@ -1,0 +1,29 @@
+body{
+    background: black;
+}
+.logo{
+    display: inline-flex;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin: -40px 0 0 -40px;
+}
+.lado1{
+    height: 32vh;
+    background: rgb(131,16, 16);
+    width:7vh;
+    margin-left: 1vh;
+}
+.lado2{
+    height: 32vh;
+    background: rgb(219,0,0);
+    width: 7vh;
+    margin-left: 1vh;
+    transform: skew(27deg);
+}
+.lado3{
+    height: 32vh;
+    background: rgb(131,16, 16);
+    width: 7vh;
+    margin-left: 1vh;
+}
